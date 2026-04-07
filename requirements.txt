@@ -3,4 +3,3 @@ pandas
 requests
 lxml
 beautifulsoup4
-```[cite: 1]
